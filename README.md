@@ -77,15 +77,12 @@ lib/
 
 ## 📸 Screenshots
 
-> You can include the following screenshots (place inside `screenshots/` folder):
->
-> * `pip.png` – PiP mode with controls
-> * `fullscreen.png` – Full-screen mode
-> * `restore.png` – Restore PiP floating action button
-
-| PiP View                    | Full-Screen View                    | Restore PiP                         |
-| --------------------------- | ----------------------------------- | ----------------------------------- |
-| ![PiP](screenshots/pip.png) | ![Full](screenshots/fullscreen.png) | ![Restore](screenshots/restore.png) |
+<div align="center" style="display: flex; justify-content: space-between; gap: 8px;">
+   <img src="https://github.com/shahiyan7/appversal_assignment/blob/main/screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202025-07-17%20at%2017.12.03.png" width="16.66%" alt=>
+    <img src="https://github.com/shahiyan7/appversal_assignment/blob/main/screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202025-07-17%20at%2017.12.56.png" width="16.66%" alt=>
+     <img src="https://github.com/shahiyan7/appversal_assignment/blob/main/screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202025-07-17%20at%2017.11.41.png" width="16.66%" alt=>
+  
+</div>
 
 ---
 
