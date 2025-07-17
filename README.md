@@ -1,16 +1,28 @@
 # appversal_assignment
 
-A new Flutter project.
+# 🎥 Flutter Picture-in-Picture (PiP) Video Player
 
-## Getting Started
+A modern Flutter video player application demonstrating a fully functional **Picture-in-Picture (PiP)** mode with drag, resize, mute/unmute, full-screen capability, and restore feature. Built using **MVVM architecture** and **Provider** state management.
 
-This project is a starting point for a Flutter application.
+> 🚀 Ideal for apps like learning platforms, video courses, and media players.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📱 Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- ✅ Local asset video playback  
+- ✅ Draggable PiP window (bounded to screen)  
+- ✅ Resizable PiP (pinch to zoom)  
+- ✅ Mute / Unmute  
+- ✅ Play / Pause  
+- ✅ Full-screen with aspect ratio control  
+- ✅ Hide PiP (close) and restore later  
+- ✅ Auto-hide controls after inactivity  
+- ✅ Buffering indicator  
+- ✅ Cross button on fullscreen to exit  
+- ✅ Dark mode UI  
+
+---
+
+## 🏗️ Project Structure
+
