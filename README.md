@@ -1,8 +1,6 @@
 # appversal_assignment
 
-Here is the **entire `README.md` as a single markdown code block**, suitable for copy-pasting directly into your project root:
 
-```markdown
 # 📱 Flutter Picture-in-Picture (PiP) Video Player
 
 A modern Flutter app demonstrating a floating Picture-in-Picture (PiP) video player with draggable positioning, full-screen toggle, mute/unmute, and auto-hide controls. Built with smooth UX, state management, and responsiveness in mind.
